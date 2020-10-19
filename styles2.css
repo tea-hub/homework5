@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+    }
+    .inline {
+        display: inline;
+        background-color: thistle;
+        border: 2px solid brown;
+        margin: 20px;
+    }
+body{
+    background-image: url(unii.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 3100px;
+    font-family: 'Sansita Swashed', cursive;
+}
+.center{
+    width:50%;
+    margin:auto ;
+    text-align:center;
+}
+.heading{
+    text-align: center;
+    color:firebrick;
+}
+p.note{
+    text-align: center;
+    color:firebrick;
+}
+
+.h4{
+    text-align: center;
+    color:firebrick;
+}
+.header{
+    text-align: center;
+    color:firebrick;
+}
+.pointer{
+    cursor:pointer;
+}
+.hover-container:hover{
+    background-color: fuchsia;
+}
+
+.tooltip-container{
+    height:100px;
+}
+
+.tooltip{
+    display:none;
+}
+.linkstyle{
+    color:red;
+}
+.linkstyle:active{
+    color:pink;
+}
+.linkstyle:visited{
+    color:brown;
+}
+.list-item{
+    color:red;
+}
+.list-item:first-child{
+    color:pink;
+}
+.list-item:last-child{
+    color:white;
+}
+.list-item:nth-child(2){
+    color:brown;
+}
