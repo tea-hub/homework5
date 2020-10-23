@@ -1,0 +1,124 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(2.otf);
+  }
+  @font-face {
+      font-family: my;
+      src: url(3.otf);
+  }
+  .fixed{
+    position:fixed;
+    width: 319px;
+    height: 1080px;
+    background-color:black;
+    top:0;
+    left:0;
+}
+.p{
+    width:30px;
+   height:42px;
+    color: white;
+    font-family: my; 
+
+}
+.container1{
+    width: 259px;
+    height:60px;
+    background-color:deeppink;
+    color:white;
+    border-radius: 12px;
+    margin:30px;
+    
+
+}
+.img{
+    width:24px;
+    height:24px;
+    color:white;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.home{
+    color:white;
+    width:56px;
+    height:28px;
+    margin-top: -18px;
+    margin-left: 80px;
+    font-size: x-large;
+    font-family:myfirstfont;
+}
+.container2{
+    width:91px;
+    height:24px;
+    color:white;
+}
+.img2{
+    color:white;
+    width:24px;
+    height:24px;
+    font-family:myfirstfont;
+    margin-block-start: 40px;
+
+}
+.container3{
+    padding-bottom: 2px;
+    padding-top: 2px;
+    padding-right: 2px;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+.img3{
+    width:24px;
+    height:24px;
+    color:white;
+
+}
+.container4{
+    width:80px;
+    height:24px;
+}
+.container5{
+    width:98px;
+    height:24px;
+    margin: 5px;
+    padding: 25px;
+    padding-block-start: 20px;
+    margin-inline-start: -28px;
+}
+.following{
+font-family:my;
+font-size: 12px;
+}
+.sajon{
+    font-family: myfirstfont;
+    
+}
+.img5{
+    margin: 5px;
+    margin-top: 10px;
+    margin-left: -10px;
+    margin-right: auto;
+}
+.div{
+    margin-left: -18px;
+    padding: 3px;
+    font-family:myfirstfont;
+}
+.div1{
+    margin:0px;
+    margin-left: -15px;
+    margin-top: 5px;
+    font-family:myfirstfont;
+   
+}
+.div2{
+    font-family: myfirstfont;
+    margin: 0px;
+    margin-left: -19px;
+}
+
+ .loadmore{
+     margin-top: 30px;
+     margin-left: 40px;
+}
